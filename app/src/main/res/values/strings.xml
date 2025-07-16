@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="nameEditText">Nama</string>
+    <string name="button">Click Me</string>
+    <string name="buttonTextView">Hallo %1$s</string>
+    <string-array name="names">
+        <item>Manja</item>
+        <item>Fani</item>
+        <item>Okta</item>
+        <item>Utramend</item>
+    </string-array>
+</resources>

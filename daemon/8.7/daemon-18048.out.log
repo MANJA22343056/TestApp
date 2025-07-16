@@ -1,0 +1,7 @@
+2024-11-22T20:44:48.990+0700 [DEBUG] [org.gradle.launcher.daemon.bootstrap.DaemonMain] 
+2024-11-22T20:44:49.159+0700 [DEBUG] [org.gradle.internal.nativeintegration.services.NativeServices] Native-platform posix files integration is not available. Continuing with fallback.
+2024-11-22T20:44:49.171+0700 [INFO] [org.gradle.launcher.daemon.server.Daemon] 
+2024-11-22T20:44:49.253+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding IP addresses for network interface Software Loopback Interface 1
+2024-11-22T20:44:49.255+0700 [DEBUG] [] 
+ [DEBUG] [] 
+ [] [
